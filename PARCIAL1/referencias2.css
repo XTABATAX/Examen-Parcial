@@ -1,0 +1,18 @@
+#primero-div
+{ 
+ border: 2px dashed blue;height: 300px
+ }
+
+ #segundo-div
+ {
+ background:black;
+ height:200px;
+ width:200px;
+}
+
+#tercero-div
+{
+	background: yellow;
+	height:100px;
+	width: 100px;
+}

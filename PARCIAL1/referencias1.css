@@ -1,0 +1,20 @@
+body
+{
+	background-color: black;
+}
+
+h1
+{
+	color: magenta;
+}
+
+p
+{
+	color: yellow;
+	font-family:"helvetica",arial;
+}
+
+p:nth-child(2n)
+{
+	color: green;
+}
